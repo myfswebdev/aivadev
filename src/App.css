@@ -1,0 +1,19 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.conversations {
+  margin-top: 20px;
+}
+
+.conversation {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.conversation h3 {
+  margin-top: 0;
+}
