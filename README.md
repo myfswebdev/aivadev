@@ -6,7 +6,7 @@ aivadev/server/server.js
 npm install express twilio body-parser @deepgram/sdk openai elevenlabs pg
 
 Run
-node server.js
+npm build:server
 
 Frontend npm installation:
 npx create-react-app aivadev
